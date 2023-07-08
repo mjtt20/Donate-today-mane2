@@ -1,0 +1,329 @@
+body{
+    margin: 0;
+}
+.qwer{
+    text-align: center;
+    background-image:
+    linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.73)),
+    url('images/Rectangle\ 237.jpg');
+    background-repeat: no-repeat;
+    width: 1536px;
+    height: 679px;
+    font-family: 'Inter', sans-serif;
+    background-size: cover;
+}
+.head1{
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 0px;
+    font-size: 70px;
+    padding-top: 150px;
+}
+.head3{
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 100px;
+}
+.button {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background: rgba(255, 89, 89, 1);
+    padding: 20px;
+    border-radius: 7px;
+    font-weight: normal;
+    text-transform: uppercase;
+    transition: all 0.2s ease-in-out;
+    font-family: 'Inter', sans-serif;  
+  }
+  .glow-button:hover {
+    color: rgb(238, 255, 0);
+    box-shadow: 0 5px 15px rgba(255, 208, 21, 0.4);
+  }
+  #k2d1{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+  }
+#k2h1{
+    font-size: 40px;
+}
+#stk{
+    display: flex;
+    height: 200px;
+    width: 800px;
+    font-family: 'Inter', sans-serif;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+}
+.as{
+    width: 120px;
+    height: 110px;
+    background-color:rgba(250, 250, 250, 1);
+    color: rgba(112, 112, 112, 1);
+    margin-top: 45px;
+    padding: 0px;
+    border-radius: 7px;
+    margin-right: 50px;
+}
+.ad{
+    width: 120px;
+    height: 110px;
+    background-color: rgba(255, 238, 238, 1);
+    color: rgba(255, 89, 89, 1);
+    margin-top: 45px;
+    padding: 0px;
+    border-radius: 7px ;
+    border: 4px solid rgba(255, 89, 89, 1);
+    margin-right: 50px;
+}
+.af{
+    width: 120px;
+    height: 110px;
+    background-color: rgba(250, 250, 250, 1);
+    color: rgba(112, 112, 112, 1);
+    margin-top: 45px;
+    padding: 0px;
+    border-radius: 7px;
+    margin-right: 50px;
+}
+.ag{
+    width: 120px;
+    height: 110px;
+    background-color: rgb(250, 250, 250);
+    color: rgba(112, 112, 112, 1);
+    margin-top: 45px;
+    padding: 0px;
+    border-radius: 7px;
+    margin-right: 50px;
+}
+.ah{
+    width: 120px;
+    height: 110px;
+    background-color: rgb(250, 250, 250);
+    color: rgba(112, 112, 112, 1);
+    margin-top: 45px;
+    padding: 0px;
+    border-radius: 7px;
+}
+.qw{
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left:15px;
+}
+.qe{
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left:17px;
+}
+.qr{
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left:17px;
+}
+.qt{
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left:11px;
+}
+.qy{
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left:10px;
+}
+#ma{
+    padding-top: 100px;
+}
+#p0{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    color: rgba(179, 179, 179, 1);
+}
+.asd{
+    font-size: 20px;
+    color: rgba(112, 112, 112, 1);
+    text-align: center;
+}
+#ho{
+   color: rgba(112, 112, 112, 1);
+    width: 800px;
+}
+#k2ld{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+#k4h1{
+    font-size: 40px;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+#ifb{
+    display: flex;
+    padding-top: 200px;
+    width: 1150px;
+    height: 360px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+}
+#s3d1{
+    background-color: rgba(79, 92, 166, 0.1);
+    height: 347px;
+    width: 355px;
+    border-radius: 7px;
+    margin-right: 42.5px;
+}
+#s3d2{
+    background-color: rgba(255, 89, 89, 0.1);
+    height: 347px;
+    width: 355px;
+    border-radius: 7px;
+    margin-right: 42.5px;
+}
+#s3d3{
+    background-color: rgba(255, 244, 214, 1);
+    height: 347px;
+    width: 355px;
+    border-radius: 7px;
+}
+#asp{
+    font-size: 20px;
+    color: rgba(112, 112, 112, 1);
+    text-align: center;
+}
+.team{
+    text-align: left;
+    margin-top: 55px;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+#font{
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 100px;
+}
+.example{
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    margin:auto;
+    padding-left:185px;
+    margin-bottom:150px;
+    margin-top: 150px;
+}
+.ed1{
+    width: 40%;
+    padding-top:20px ;
+}
+.eh1{
+    font-size:50px ;
+    font-weight: 900px;
+}
+.ep{
+    font-size: 20px;
+}
+.ed2{
+    width: 50%;
+}
+.eimg{
+    margin-left: 60px;
+}
+.buton {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background: rgba(255, 89, 89, 1);
+    padding: 20px;
+    border-radius: 7px;
+    font-weight: normal;
+    text-transform: uppercase;
+    transition: all 0.2s ease-in-out;
+    font-family: 'Inter', sans-serif;  
+  }
+  .glow-buton:hover {
+    color: rgb(238, 255, 0);
+    box-shadow: 0 5px 15px rgba(255, 208, 21, 0.4);
+  }
+#xample{
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    margin-bottom:150px;
+    padding-left:125px;
+}
+#d1{
+    width: 40%;
+    padding-top:20px ;
+}
+#h1{
+    font-size:50px ;
+    font-weight: 900px;
+}
+#p{
+    font-size: 20px;
+}
+#d2{
+    width: 50%;
+    margin-right: 0px;
+}
+#img{
+    margin-left: 60px;
+}
+#lasec{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#lsd{
+    font-size: 50px;
+}
+#lsp1{
+    font-size: 20px;
+}
+
+#faad{
+    background-color:rgba(255, 244, 214, 1) ;
+    width: 850px;
+    height: 180px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 150px;
+}
+#fint{
+    height: 45px;
+    border: none;
+    margin-right: 0px;
+    margin-top: 75px;
+    width: 300px;
+    padding-left: 15px;
+    background-color: rgba(217, 217, 217, 1);
+    color: rgba(170, 159, 159, 1);
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+#fb{
+    height: 45px;
+    margin-left: 0px;
+    border: none;
+    width: 150px;
+    margin-right: 15px;
+    background-color: rgba(255, 89, 89, 1);
+    color: rgba(255, 255, 255, 1);
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+footer{
+    background-color: rgba(11, 13, 23, 1);
+    width: 1536px;
+    height: 180px;
+    text-align: center;
+}
+#humble{
+    color: rgba(255, 89, 89, 1);
+    padding-top: 50px;
+    font-family: 'Lobster', cursive;
+}
+#aim{
+    color: rgba(217, 219, 225, 1);
+    font-size: 15px;
+}
+.mg{
+    margin-left: 60px;
+    height: 500px;
+    width: 700px;
+}
